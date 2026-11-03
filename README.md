@@ -124,5 +124,5 @@ The detection calculations were checked separately with the supplied sample, shu
 
 To check the dashboard in the configured environment, move the threshold between 5 and 3. At 5, expect admin1 with a maximum of 6 failures and a checked success-after-burst box. At 3, also expect analyst1 and researcher2; researcher2's success-after-burst box should be unchecked.
 
-## Interview walkthrough
+
 
