@@ -126,8 +126,3 @@ To check the dashboard in the configured environment, move the threshold between
 
 ## Interview walkthrough
 
-A short explanation to adapt in your own words:
-
-> I built a prototype that reviews simulated research-lab login records and flags repeated failures and a successful login after those failures. I used Python and pandas for the analysis and Streamlit for the dashboard. I compared two thresholds and showed how catching more suspicious cases can also produce false alarms. I also researched government advisories to explain which techniques these rules could help identify and what they would miss.
-
-Be ready to explain why the detector groups by account, IP, and system; why the five-minute window matters; and why an alert needs human review.
